@@ -1,0 +1,27 @@
+{
+  "name": "egoole-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RikaiData/egoole-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RikaiData/egoole-api/issues"
+  },
+  "homepage": "https://github.com/RikaiData/egoole-api#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.11",
+    "@feathersjs/feathers": "^4.5.11",
+    "@feathersjs/socketio": "^4.5.11",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  }
+}
